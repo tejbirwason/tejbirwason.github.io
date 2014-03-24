@@ -7,9 +7,9 @@ title: About Me
 
 <br>
 
-Hi! I'm [Tejbir](http://about.me/tejbirwason). I'm a Junior Software Engineering student at UBC who loves good code and the beautiful city of Vancouver, Canada.
+Hi! I'm [Tejbir](http://about.me/tejbirwason). I'm a Junior Software Engineering student at UBC living in the beautiful city of Vancouver, Canada.
 
-I like to dabble with rails web developement, social bots, operating system concepts, digital system design, and any new technology I can get my hands on. I am a former intern at Broadcom and Alcatel Lucent.
+I love to read and write good code. I dabble with rails web developement, social bots, operating system concepts, digital system design, and any new technology I can get my hands on. I am a former intern at Broadcom and Alcatel Lucent.
 
 I claim to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
 
