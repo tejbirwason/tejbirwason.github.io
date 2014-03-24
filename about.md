@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![alt tag](https://raw.github.com/tejbirwason/tejbirwason.github.io/master/images/aboutmepic.png)
+![alt tag](https://raw.githubusercontent.com/tejbirwason/tejbirwason.github.io/master/images/aboutmepic.png)
 
 <br>
 
