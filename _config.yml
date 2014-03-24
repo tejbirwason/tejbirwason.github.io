@@ -1,4 +1,4 @@
-title:            Scribble
+title:            Organized Chaos
 description:      A jekyll theme. Because I scribble.
 url:              # Site url.
 signoff:          # Your name.
@@ -13,10 +13,18 @@ links:
     url:          http://muan.co
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
-    external:     true
+    url:          mailto:tejbirwason@gmail.com
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/tejbirwason
+    external:     true
+  - name:         Twitter
+    url:          http://twitter.com/tejbirwason
+    external:     true
+  - name:         LinkedIn
+    url:          http://www.linkedin.com/pub/tejbir-wason/30/840/b92
+    external:     true
+  - name:         Strava
+    url:          http://www.strava.com/athletes/tejbirwason
     external:     true
 pygments:         true
 permalink:        pretty
