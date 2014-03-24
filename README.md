@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Scribble
 ========
 
@@ -61,3 +62,9 @@ When writing a post, there are 3 options you can add to the header.
 
 Like it? [Tell me](http://twitter.com/muanchiou).<br/>
 Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
+=======
+tejbirwason.github.io
+=====================
+
+Blog!
+>>>>>>> e7aebe6d33fba1542fdcc826a598374fb6ec1be5
