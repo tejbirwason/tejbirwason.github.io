@@ -11,7 +11,6 @@ links:
     url:          /about
   - name:         Blog
     url:          http://tejbirwason.github.io
-    external:     true
   - name:         Email
     url:          mailto:tejbirwason@gmail.com
   - name:         GitHub
