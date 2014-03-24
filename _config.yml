@@ -1,7 +1,7 @@
 title:            Organized Chaos
 description:      Tejbir Wason's weblog
 url:              # Site url.
-signoff:          # Your name.
+signoff:          Tej
 disqus_shortname: tejbirwason
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.

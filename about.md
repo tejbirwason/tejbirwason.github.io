@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![alt tag](https://raw.github.com/tejbirwason/tejbirwason.github.io/master/images/pic.png)
+![aboutmepic]({{ site.url }}/images/pic.png)
 
 <br>
 
@@ -15,6 +15,6 @@ I claim to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [bik
 
 This is my blog populated with musings and fleeting thoughts.
 
-Tweet at [@tejbirwason](http://twitter.com/tejbirwason), see some of my projects on [GitHub](http://github.com/tejbirwason), find my CV [here](http://raw.github.com/tejbirwason/tejbirwason.github.io/master/cv/TejbirWason_CV.pdf) or at [LinkedIn](http://www.linkedin.com/pub/tejbir-wason/30/840/b92). Feel free to [drop me a line](mailto:tejbirwason@gmail.com?subject=Hello!). 
+Tweet at [@tejbirwason](http://twitter.com/tejbirwason), see some of my projects on [GitHub](http://github.com/tejbirwason), find my CV [here]({{ site.url }}/cv/TejbirWason_CV.pdf) or at [LinkedIn](http://www.linkedin.com/pub/tejbir-wason/30/840/b92). Feel free to [drop me a line](mailto:tejbirwason@gmail.com?subject=Hello!). 
 
 You have a nice day. ♥
