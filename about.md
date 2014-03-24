@@ -13,7 +13,7 @@ I love to read and write good code. I dabble with rails web developement, social
 
 I claim to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
 
-This is my blog populated with musings and fleeting thoughts.
+This is my blog populated with an n'th percent my musings and fleeting thoughts.
 
 
 You can find me on a variety of world wild interweb sites. Tweet at [@tejbirwason](http://twitter.com/tejbirwason), see some of my projects on [GitHub](http://github.com/tejbirwason), find my CV [here]({{ site.url }}/cv/TejbirWason_CV.pdf) or check out my professional profile on  [LinkedIn](http://www.linkedin.com/pub/tejbir-wason/30/840/b92). Feel free to [drop me a line](mailto:tejbirwason@gmail.com?subject=Hello!). 
