@@ -6,7 +6,7 @@ title: About
 ![alt tag](http://m.c.lnkd.licdn.com/mpr/pub/image-shMnkGQWjvodV4NsYtRzVslQH3bSxhkcDhR-oJQdHghY1tzSshM-eH0WHb4Yo3O_LzEz/tejbir-wason.jpg)
 
 
-Hi, this is [Tejbir Wason](http://about.me/tejbirwason). I'm a Junior Software Engineering student at UBC living in the beautiful city of Vancouver, Canada.
+Hi! this is [Tejbir Wason](http://about.me/tejbirwason). I'm a Junior Software Engineering student at UBC living in the beautiful city of Vancouver, Canada.
 
 I like to dabble with rails web developement, social bots, operating system concepts, digital system design, and any new technology I can get my hands on. I am a former intern at Broadcom and Alcatel Lucent.
 
