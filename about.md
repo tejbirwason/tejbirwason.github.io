@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![alt tag](https://scontent-a-sea.xx.fbcdn.net/hphotos-frc3/t1.0-9/1381299_10151938753713254_616778989_n.jpg)
+![alt tag](https://raw.github.com/tejbirwason/tejbirwason.github.io/master/images/aboutmepic.png)
 
 <br>
 
