@@ -7,12 +7,12 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About
+  - name:         About Me
     url:          /about
   - name:         Blog
     url:          /
   - name:         Email
-    url:          mailto:tejbirwason@gmail.com
+    url:          mailto:tejbirwason@gmail.com?subject=Hello!
   - name:         GitHub
     url:          http://github.com/tejbirwason
     external:     true
