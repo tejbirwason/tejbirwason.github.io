@@ -12,7 +12,7 @@ links:
   - name:         Blog
     url:          /
   - name:         Email
-    url:          mailto:tejbirwason@gmail.com?subject=Hello!
+    url:          mailto:hello@tejbirwason.com
   - name:         GitHub
     url:          http://github.com/tejbirwason
     external:     true
@@ -31,3 +31,4 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+gems: ["emoji_for_jekyll"]
