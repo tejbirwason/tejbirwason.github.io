@@ -12,7 +12,7 @@ links:
   - name:         Blog
     url:          /
   - name:         Email
-    url:          mailto:hello@tejbirwason.com
+    url:          mailto:tejbirwason@gmail.com?subject=Hello!
   - name:         GitHub
     url:          http://github.com/tejbirwason
     external:     true
