@@ -1,1 +1,1 @@
-This is my customised blog based on [Scribble](https://github.com/muan/scribble).
+This is my personal website/blog build with Jekyll using the  [Scribble](https://github.com/muan/scribble) theme.
