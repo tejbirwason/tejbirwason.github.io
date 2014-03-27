@@ -1,1 +1,1 @@
-This is my personal website/blog build with Jekyll using the  [Scribble](https://github.com/muan/scribble) theme.
+This is my personal website/blog powered by Jekyll and built using the  [Scribble](https://github.com/muan/scribble) theme.
