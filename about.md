@@ -13,7 +13,7 @@ I love to read and write juicy code. I dabble with rails web developement, socia
 
 I am a former intern at [Broadcom](http://www.broadcom.com) and [Alcatel Lucent](http://www.alcatel-lucent.com).
 
-I claim to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
+I *claim* to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
 
 This [blog]({{ site.url }}) is populated with some of my musings and fleeting thoughts.
 
