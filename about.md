@@ -7,7 +7,7 @@ title: About Me
 
 <br>
 
-Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**. I'm a Junior Software Engineering student at UBC living in the beautiful city of Vancouver, Canada.
+Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**. I'm a Junior Software Engineering student at UBC graduating in 2016 with co-op. I live in the beautiful city of Vancouver, Canada.
 
 I love to read and write juicy code. I dabble with rails web developement, social bots, web crawlers, operating system concepts, digital system design, kinect motion and any emerging quantified-self technology I can get my hands on. 
 
