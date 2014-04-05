@@ -3,6 +3,7 @@
     <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
     <title>{{ page.title }} - {{ site.title }}</title>
     {% include head.html %}
+	<link rel="stylesheet" href="dist/selection-sharer.css" />
   </head>
   <body>
     {% include header.html %}
@@ -31,5 +32,9 @@
       {% include links.html %}
     </div>
     {% include footer.html %}
+	<script src="dist/selection-sharer.js"></script>
+	<script>
+	$('p').selectionSharer();
+	</script>
   </body>
 </html>
