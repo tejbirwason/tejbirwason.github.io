@@ -9,7 +9,7 @@ title: About Me
 
 Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**. I'm a Junior Software Engineering student at UBC graduating in 2016 with co-op living in the beautiful city of Vancouver, Canada.
 
-I love to read and write juicy code. I dabble with rails web developement, social bots, web crawlers, operating system concepts, digital system design, kinect motion and any quantified-self gizmo I can get my hands on. 
+I love to read and write juicy code. I dabble in rails, web crawling, data mining, operating system concepts, digital system design, kinect motion and any quantified-self tech. 
 
 I am a former intern at [Broadcom](http://www.broadcom.com) and a summer '14 intern at [Alcatel Lucent](http://www.alcatel-lucent.com).
 
