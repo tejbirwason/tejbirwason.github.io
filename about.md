@@ -18,7 +18,7 @@ I *claim* to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [b
 This [blog]({{ site.url }}) is populated with musings and fleeting thoughts. [This]({{ site.url }}/hello-world) might be a good place to start.
 
 
-You can find me on a variety of world wild interweb sites. Tweet at [@tejbirwason](http://twitter.com/tejbirwason), see some of my projects on [GitHub](http://github.com/tejbirwason), find my CV [here]({{ site.url }}/cv/TejbirWason_CV.pdf) or visit my professional profile on  [LinkedIn](http://www.linkedin.com/pub/tejbir-wason/30/840/b92). 
+You can find me on a variety of world wild interweb sites. Tweet at [@tejbirwason](http://twitter.com/tejbirwason), see some of my projects on [GitHub](http://github.com/tejbirwason), find my CV [here]({{ site.url }}/cv/TejbirWason_CV.pdf) or visit my professional profile on  [LinkedIn](http://www.linkedin.com/pub/tejbir-wason/30/840/b92). I also spend unhealthy amounts of time at HackerNews under the username [twason](https://news.ycombinator.com/user?id=tejbirwason).
 
 Feel free to [drop me a line](mailto:hello@tejbirwason.com). 
 You have a nice day. ♥
