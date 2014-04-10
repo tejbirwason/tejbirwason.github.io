@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Me
 ---
 
 ![aboutmepic]({{ site.url }}/images/pic.png)
