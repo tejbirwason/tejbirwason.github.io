@@ -16,5 +16,3 @@ Finals end in a week, and this seems like a deep enough problem for me to sink m
 It is time to empower customers to play songs they like and give them an opportunity to discover new songs, at places they love to visit often.
 
 If you have hacked on a similar project before (using mopidy server and a raspberry pi, I would love to hear about it in the comments below)
-
-[Discussion on HN](https://news.ycombinator.com/item?id=7607895)
