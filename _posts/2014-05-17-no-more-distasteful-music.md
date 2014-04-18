@@ -15,4 +15,4 @@ Luckily my finals end in a week, and this seems like a deep enough problem for m
 
 If you have hacked on a similar project before (using mopidy server and a raspberry pi, I would love to hear about it in the comments below)
 
-[Discussion on HN](https://news.ycombinator.com/item?id=7488571)
+[Discussion on HN](https://news.ycombinator.com/item?id=7607895)
