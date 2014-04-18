@@ -13,7 +13,7 @@ Recently, I got nerd sniped by this problem and went into a rabbit hole,  resear
 
 Finals end in a week, and this seems like a deep enough problem for me to sink my teeth into. Looking forward to post updates on progress. I have always wanted to play around with my raspberry pi, and some of the music streaming API’s. This might be the best opportunity yet.
 
-It is time to stop being forced to listen to distasteful music. Empower customers to play songs they like for a better wholesome experience.
+It is time to empower customers to play songs they like and give them an opportunity to discover new songs, at places they love to visit often.
 
 If you have hacked on a similar project before (using mopidy server and a raspberry pi, I would love to hear about it in the comments below)
 
