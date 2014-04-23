@@ -1,5 +1,5 @@
 <div class="block">
   {% for link in site.links %}
-    <h3><a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a></h3>
+    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" style="color: EB8900" class="main" href="{{ link.url }}">{{ link.name }}</a>
   {% endfor %}
 </div>
