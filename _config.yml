@@ -11,8 +11,9 @@ links:
     url:          /about
   - name:         Blog
     url:          /
-  - name:         Email
-    url:          mailto:hello@tejbirwason.com
+  - name:         Lab
+    url:          http://capacious.ca
+    external:     true
   - name:         GitHub
     url:          http://github.com/tejbirwason
     external:     true
