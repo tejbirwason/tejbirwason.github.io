@@ -18,4 +18,5 @@ I am a big time [foodie]. A new city brings with it tons of new resturants and b
 * Pizza Pizza
 * Alcatel Cafeteria
 * La Bottega Nicastro Fine Food Shop
+* Clocktower Brew Pub
 * ...List being updated...
