@@ -20,4 +20,5 @@ I am a big time [foodie]. A new city brings with it tons of new resturants and b
 * La Bottega Nicastro Fine Food Shop
 * Clocktower Brew Pub
 * Burrito Borracho
+* Auld Dubliner
 * ...List being updated...
