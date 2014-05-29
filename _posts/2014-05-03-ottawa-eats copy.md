@@ -21,4 +21,6 @@ I am a big time [foodie]. A new city brings with it tons of new resturants and b
 * Clocktower Brew Pub
 * Burrito Borracho
 * Auld Dubliner
+* Whispers Pub Ottawa
+* Cornerstone Bar and Grill
 * ...List being updated...
