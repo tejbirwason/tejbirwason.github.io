@@ -23,4 +23,5 @@ I am a big time [foodie]. A new city brings with it tons of new resturants and b
 * Auld Dubliner
 * Whispers Pub Ottawa
 * Cornerstone Bar and Grill
+* Beaver Tails
 * ...List being updated...
