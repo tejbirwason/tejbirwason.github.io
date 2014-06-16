@@ -19,6 +19,6 @@ This [blog]({{ site.url }}) is populated with musings and fleeting thoughts. [Th
 
 You can find me on a variety of world wild interweb sites. Tweet at [@tejbirwason](http://twitter.com/tejbirwason), see some of my projects on [GitHub](http://github.com/tejbirwason), my sandbox at [Capacious Labs](http://capacious.ca) or visit my professional profile on  [LinkedIn](http://www.linkedin.com/in/tejbirwason). I also spend an unhealthy amount of time on HackerNews where I am known as [twason](https://news.ycombinator.com/user?id=tejbirwason).
 
-Feel free to [drop me a line](mailto:hello@tejbirwason.com). Or [pair with me](https://twitter.com/intent/tweet?text=I%27d+love+to+pair+on+something+%40tejbirwason%21+%23pairwithme).
+Feel free to [drop me a line](mailto:tejbirwason@gmail.com). Or [pair with me](https://twitter.com/intent/tweet?text=I%27d+love+to+pair+on+something+%40tejbirwason%21+%23pairwithme).
 
 You have a nice day. ♥
