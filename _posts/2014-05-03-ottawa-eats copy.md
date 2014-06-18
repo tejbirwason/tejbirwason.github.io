@@ -24,4 +24,6 @@ I am a big time [foodie]. A new city brings with it tons of new resturants and b
 * Whispers Pub Ottawa
 * Cornerstone Bar and Grill
 * Beaver Tails
+* Heart and Crown
+* Oh So Good Dessert & Coffee House
 * ...List being updated...
