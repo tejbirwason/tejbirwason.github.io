@@ -11,7 +11,7 @@ Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**. I'm a Junior Software E
 
 I'm a full-stack software developer and social media marketing dude. I love to read and write juicy code. I dabble with rails, web crawlers, data mining, product design, backend scaling and any quantified-self tech. I share strategies telling a story in a noisy, social world through native micro-content. 
 
-I have interned at [Broadcom](http://www.broadcom.com) and am a current summer intern at [Alcatel Lucent](http://www.alcatel-lucent.com). I am the founder at [MyJam](http://www.myjam.co), winner of Startup Weekend Ottawa '14.
+I have interned at [Broadcom](http://www.broadcom.com) and am a current summer intern at [Alcatel Lucent](http://www.alcatel-lucent.com). I founded [MyJam](http://www.myjam.co), winner of Startup Weekend Ottawa '14.
 
 I *claim* to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
 
