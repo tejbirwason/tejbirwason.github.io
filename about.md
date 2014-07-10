@@ -9,7 +9,7 @@ title: Me
 
 Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**. I'm a Junior Software Engineering student at UBC graduating in 2016 with co-op living in the beautiful city of Vancouver, Canada.
 
-I'm a full-stack software developer and social media marketing dude. I love to read and write juicy code. I dabble with rails, web crawlers, data mining, product design, backend scaling and any quantified-self tech. I share strategies telling a story in a noisy, social world through native micro-content. 
+I'm a full-stack software developer and content startegy specialist. I love to read and write juicy code. I dabble with rails, web crawlers, data mining, product design, backend scaling and any quantified-self tech. I share strategies telling a story in a noisy, social world through native micro-content. 
 
 I have interned at [Broadcom](http://www.broadcom.com) and am a current summer intern at [Alcatel Lucent](http://www.alcatel-lucent.com). I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa.
 
