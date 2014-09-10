@@ -4,7 +4,7 @@ title: Trichotomy of Control
 date: 2014-09-09 12:21:31
 disqus: y
 share: y
-permalink: /4s4m.html
+permalink: /trichotomy-of-control.html
 ---
 
 
