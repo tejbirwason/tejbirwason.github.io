@@ -9,11 +9,11 @@ title: Me
 
 Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**. I'm a Junior Software Engineering student at UBC graduating in 2016 with co-op living in the beautiful city of Vancouver, Canada.
 
-I'm a full-stack developer and content startegy specialist. I love to read and write juicy code. I dabble with node.js, rails, web crawlers, data mining, product design, backend scaling and any quantified-self tech. I share strategies on telling a story in a noisy world, through native micro-content. 
+I'm a full-stack developer and content startegy specialist. I love to read and write juicy code. I dabble with tools like node.js, rails, python and java to solve real customer problems which often involves flirting with UI/UX design and product marketing. I also love sharing strategies on narrating a coherent story in today's noisy social world. 
 
-I have worked as a software engineer intern at [Broadcom](http://www.broadcom.com) in Richmond, BC and [Alcatel Lucent](http://www.alcatel-lucent.com) in Ottawa, ON. 
+I have worked as a software engineer intern for [Broadcom](http://www.broadcom.com) in Richmond and [Alcatel Lucent](http://www.alcatel-lucent.com) in Ottawa. 
 
-I love working in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Also working on a [couple more ideas]({{ site.url }}/4s4m).
+I love working in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Also working on a couple more [ideas]({{ site.url }}/4s4m).
 
 I *claim* to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
 
