@@ -7,7 +7,7 @@ facebook_appid:   623290107757407
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About Me
+  - name:         Me
     url:          /about
   - name:         Blog
     url:          /
