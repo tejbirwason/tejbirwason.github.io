@@ -2,7 +2,7 @@
 layout: post
 title: Trichotomy of Control
 date: 2014-09-09 12:21:31
-disqus: y
+disqus: n
 share: y
 permalink: /trichotomy-of-control.html
 ---
@@ -18,4 +18,4 @@ This advice is not new, but what I found interesting about the stoic version was
 
 This advice sounds simple but boy is it hard to adopt. No doubt stoics believed that someone who fully understands the Trichotomy of Control, is the rarest of rare being, a stoic "sage". 
 
-I have fallen upon stoic philosophy at the right stage in my life. At this crucial juncture where I transition from a curriculum based workflow to where I am empowered to sketch my career path. I am a long way away from calling myself a practicing stoic but there is no doubt that stoicism has become my life philosophy of choice. I look forward to keep rewiring my thinking, internalizing my goals, in the hopes for a brighter and controllable future. 
+I have fallen upon stoic philosophy at the right stage in my life. At this crucial juncture where I transition from a curriculum based workflow to where I am empowered to sketch my career path. I am a long way away from calling myself a practicing stoic but there is no doubt that stoicism has become my life philosophy of choice. I look forward to keep rewiring my thinking, internalizing my goals, in the hopes for a **controllable** future. 
