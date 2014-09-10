@@ -12,7 +12,7 @@ permalink: /ottawa-eats.html
 
 <br>
 
-I am a big time [foodie]. A new city brings with it tons of new resturants and bars to explore. This is a list with all the food spots I visit in Ottawa (and Montreal). Hope to become an Elite yelper by the end of summer.
+I am a big time foodie. A new city brings with it tons of new resturants and bars to explore. This is a list with all the food spots I visit in Ottawa (and Montreal). Hope to become an Elite yelper by the end of summer.
 
 * Kothu Roti
 * Pizza Pizza
