@@ -12,7 +12,7 @@ permalink: /ottawa-eats.html
 
 <br>
 
-I am a big time [foodie]. A new city brings with it tons of new resturants and bars to explore. This is a list with all the food spots I visit in Ottawa. Hope to become an Elite yelper by the end of summer.
+I am a big time [foodie]. A new city brings with it tons of new resturants and bars to explore. This is a list with all the food spots I visit in Ottawa (and Montreal). Hope to become an Elite yelper by the end of summer.
 
 * Kothu Roti
 * Pizza Pizza
@@ -38,4 +38,7 @@ I am a big time [foodie]. A new city brings with it tons of new resturants and b
 * Omnivore (MONTREAL)
 * Bite Burger House
 * Basmati
-* ...List being updated...
+* Union 613
+* Mill Street Brew Pub
+
+UPDATE: Although I ate out a lot, I did not find myself writing extended reviews on Yelp. If I were to judge, Lone Star Texas Grill would be the best place I tried. Love that country theme!
