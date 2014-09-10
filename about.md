@@ -13,7 +13,7 @@ I'm a full-stack developer and content startegy specialist. I love to read and w
 
 I have worked as a software engineer intern at [Broadcom](http://www.broadcom.com) in Richmond, BC and [Alcatel Lucent](http://www.alcatel-lucent.com) in Ottawa, ON. 
 
-I love working in a competetive startup environment. My head is full of several zero-billion dollar ideas. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. 
+I love working in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Also working on a [couple more ideas]({{ site.url }}/4s4m).
 
 I *claim* to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
 
