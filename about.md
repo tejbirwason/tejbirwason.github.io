@@ -15,7 +15,7 @@ I have worked as a software engineer intern for [Broadcom](http://www.broadcom.c
 
 I love working in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Currently brewing a couple more [ideas]({{ site.url }}/4s4m).
 
-I *claim* to be a good [golfer](http://ubcgolf.wordpress.com/executives/) and [biker](http://www.strava.com/athletes/tejbirwason).
+I *claim* to be a good [golfer](http://ubcgolf.club) and [biker](http://www.strava.com/athletes/tejbirwason).
 
 This [blog]({{ site.url }}) is populated with my musings and fleeting thoughts. [This]({{ site.url }}/hello-world) might be a good place to start.
 
