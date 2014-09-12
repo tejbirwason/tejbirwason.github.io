@@ -1,0 +1,281 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+  font-family: "Asap";
+  src: url("/assets/Asap-Regular.otf");
+}
+
+@font-face {
+  font-family: "Asap";
+  src: url("/assets/Asap-Bold.otf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Asap";
+  src: url("/assets/Asap-BoldItalic.otf");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Asap";
+  src: url("/assets/Asap-Italic.otf");
+  font-style: italic;
+}
+
+body {
+  background: url('/assets/bg_eggshell.jpg');
+  background-color: #F2EDE9;
+  font: 82.5%;
+  font-family: 'Asap', Verdana, sans-serif;
+  opacity: .99;
+  padding: 0px;
+  color: #4D4B45;
+  line-height: 150%;
+}
+
+#sidebar a {
+  opacity: 0;
+  -webkit-transition: .5s opacity;
+  -moz-transition: .5s opacity;
+  transition: .5s opacity;
+  font-size: .9em;
+  position: fixed;
+  top: 100px;
+  left: 5%;
+}
+
+a {
+  color: #2C698C;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: #22516D;
+}
+
+.info {
+  border-bottom: 1px dotted #4D4B45;
+  color: #4D4B45;
+}
+
+.info:hover {
+  color: #000;
+}
+
+.selected {
+  background-color: #F3EDCB;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 700;
+  padding: 0px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-size: 1.2em;
+  text-align: center;
+  border-bottom: #000000 1px solid;
+  width: 920px;
+  margin: 30px auto 16px;
+}
+
+#subheader {
+  text-align:center;
+  padding: 0px;
+  margin: 10px auto;
+  font-size: 1em;
+}
+
+ul.noBullets {
+  list-style: none;
+  font-size: 1em;
+  margin: auto;
+}
+
+ul {
+  font-size: 1em;
+  margin: auto;
+  list-style: disc;
+}
+
+#container {
+  margin: auto;
+  width: 960px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+article {
+  display: block;
+  width: 935px;
+  margin-left: 0px;
+}
+
+article ul {
+  margin-bottom: 1em;
+}
+
+#technical, #objectives, #awards {
+  display: block;
+  width: 940px;
+  margin-left: 15px;
+}
+
+#technical ul {
+  padding-right: 10px;
+}
+
+#contact {
+  display: block;
+  width: 690px;
+  font-size: .9em;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.blockList {
+  line-height: 150%;
+  display: inline-block;
+  margin: 0px;
+  padding: 0;
+  width: 330px;
+}
+
+.blockList li {
+  display: inline-block;
+  width: 100%;
+  margin: inherit;
+}
+
+#interests {
+  margin-left: 40px;
+}
+
+#header {
+  color: #4D4B45;
+}
+
+#header:hover {
+  color: #000;
+}
+
+.chromeframe {
+  text-align: center;
+}
+
+.no-link, .no-link:hover {
+  font-weight: normal;
+  color: #4D4B45;
+  cursor: text;
+}
+
+@media only screen and (max-width:1200px) {
+  #container {
+    width: 800px;
+  }
+
+  h2 {
+    margin: 30px 10% 15px 10%;
+    width: 80%;
+  }
+
+  article {
+    width: 655px;
+    margin-left: 60px;
+  }
+
+  #objectives, #technical, #awards {
+    width: 650px;
+    margin-left: 75px;
+  }
+
+  #contact {
+    width: 500px;
+  }
+
+  .blockList {
+    width: 200px;
+  }
+}
+
+@media only screen and (max-width:890px) {
+  #sidebar a {
+    left: 5px;
+  }
+
+}
+
+@media only screen and (max-width:810px) {
+  #container {
+    width: 100%;
+  }
+
+  article, #technical, #objectives, #awards {
+    width: 80%;
+  }
+
+}
+
+@media only screen and (max-width:500px) {
+  #sidebar a {
+    display: none;
+  }
+
+  #contact {
+    width: 100%;
+  }
+
+  article, #technical, #objectives, #awards {
+    margin-left: 5px;
+    width: 95%;
+  }
+
+  ul {
+    padding-left: 30px;
+  }
+}
+
+@media print {
+  body {
+    background: #fff;
+    color: #272822;
+  }
+
+  .find {
+    font-weight: bold;
+  }
+
+  a {
+    color: #272822 !important;
+    border-bottom: none !important;
+  }
+
+  #sidebar a {
+    display: none;
+  }
+
+  h1 .print:after {
+    display: block; 
+    font-size: 50%;
+    margin-top: 12px;
+  }
+
+  .print:after {
+    content: " (" attr(href) ")";
+    font-size: 90%;
+  }
+
+  .selected {
+    background-color: #fff;
+  }
+
+  #work {
+    page-break-after: always;
+  }
+}
