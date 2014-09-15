@@ -3,7 +3,7 @@ layout: page
 title: Me
 ---
 
-![aboutmepic]({{ site.url }}/images/pic.png)
+![aboutmepic]({{ site.url }}/images/pic_compress.png)
 
 <br>
 
