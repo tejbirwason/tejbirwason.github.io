@@ -13,7 +13,6 @@ links:
     url:          /
   - name:         Lab
     url:          http://capacious.ca
-    external:     true
 pygments:         true
 permalink:        pretty
 markdown:         redcarpet
