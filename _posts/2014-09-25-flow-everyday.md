@@ -9,7 +9,7 @@ permalink: /flow-everyday.html
 
 ![pic]({{ site.url }}/images/flow.jpg)
 
-<img style="float: centre" src="{{ site.url }}/images/flow.jpg">
+<img style="vertical-align:top" src="{{ site.url }}/images/flow.jpg">
 
 I use a system rather than a goal (hat tip Scott Adams). A recent subtle addition to my daily process has lead to a disproportional increase in productivity. What’s even more important is that its lead to an exponential decay in anxiety. It is as simple as thinking like this: 
 >  At the end of the day, if I have achieved some kind of flow, it has been a good day. 
