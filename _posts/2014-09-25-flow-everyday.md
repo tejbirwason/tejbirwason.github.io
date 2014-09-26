@@ -21,4 +21,4 @@ I’ve tried 'flowing' many times, but with an unflattering success rate (I'd sa
 
 Kill the noise, flow everyday.
 
-Or, you know maybe, just chase the [Ballmer Peak](http://xkcd.com/323/) :P
+Or, you know, maybe just chase the [Ballmer Peak](http://xkcd.com/323/) :P
