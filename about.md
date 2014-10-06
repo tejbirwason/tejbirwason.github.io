@@ -9,7 +9,7 @@ title: Me
 
 Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**, call me Tj. I'm a Junior Software Engineering student at UBC graduating in 2016. I live in the beautiful city of Vancouver, Canada.
 
-I'm a software engineer, product designer and content startegy specialist. I love to read and write juicy code. I dabble with tools like node.js, ruby on rails, python and java to solve real pain points. This often involves flirting with UI/UX design and product marketing. I also love sharing strategies on coherent branding in a noisy social world. 
+I'm a software engineer and product designer. I love to read and write juicy code. But coding is just a means to an end. I dabble with node.js, rails, python and java to ultimately solve real pain points. This often involves flirting with UI/UX design and product marketing. As a hobby, I also love sharing strategies on coherent branding in a noisy social world. 
 
 I have worked as a software engineer at [Broadcom](http://www.broadcom.com) and [Alcatel Lucent](http://www.alcatel-lucent.com). 
 
