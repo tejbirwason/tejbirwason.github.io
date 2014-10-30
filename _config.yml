@@ -19,4 +19,5 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
-gems: ["emoji_for_jekyll"]
+gems:
+  - jekyll-redirect-from
