@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Me
-redirect_from: "/"
 ---
 
 ![aboutmepic]({{ site.url }}/images/pic_compress.png)
