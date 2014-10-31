@@ -9,9 +9,9 @@ permalink: /flow-everyday.html
 
 <div style="text-align: center"><img src="{{ site.url }}/images/flow.jpg"></div>
 
-I use a system rather than a goal (hat tip [Scott Adams](http://www.dilbert.com/blog/entry/goals_vs_systems/)). A recent subtle addition to my daily process has lead to a disproportionate increase in productivity. What’s even more important is that its lead to an exponential decay in anxiety. It is as simple as considering: 
+I use a system rather than a goal (hat tip [Scott Adams](http://www.dilbert.com/blog/entry/goals_vs_systems/)). A recent subtle addition to my daily process has lead to a disproportionate increase in productivity. What’s even more important is that its lead to an even bigger decrease in anxiety. It is as simple as considering: 
 >  At the end of the day, if I have achieved some kind of flow, it has been a good day. 
-> Doesn't matter what I worked on, doesn't matter if I was stuck, or even if I moved backward. 
+> Doesn't matter what I worked on, doesn't matter if I was stuck, or if I moved backward. 
 
 As long as I had the ability to distance myself from everything except the task at hand, it was the most productive use of my time. 
 
