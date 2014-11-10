@@ -11,7 +11,7 @@ Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**, call me Tj. I'm a Junio
 
 I'm a software engineer and product designer. I love to read and write juicy code. But code is just a means to an end. I dabble with ruby, python and java to ultimately solve real pain points. This often involves flirting with UI/UX design and product marketing. As a hobby, I love sharing strategies on coherent branding in a noisy social world. 
 
-I have worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15),[Broadcom](http://www.broadcom.com) and [Alcatel Lucent](http://www.alcatel-lucent.com). 
+I have worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15), [Broadcom](http://www.broadcom.com) and [Alcatel Lucent](http://www.alcatel-lucent.com). 
 
 I love working in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Currently brewing a couple more [ideas]({{ site.url }}/4s4m).
 
