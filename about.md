@@ -13,7 +13,7 @@ I'm a software engineer and product designer. I love to read and write juicy cod
 
 I have worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15), [Alcatel Lucent](http://www.alcatel-lucent.com) (Summer '14) and [Broadcom](http://www.broadcom.com) (Summer'13, Fall'13). 
 
-I love working in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Currently brewing a couple more [ideas]({{ site.url }}/4s4m).
+I love building awesome stuff in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Currently brewing a couple more [ideas]({{ site.url }}/4s4m).
 
 I *claim* to be a good [golfer](http://ubcgolf.club) and [biker](http://www.strava.com/athletes/tejbirwason).
 
