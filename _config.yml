@@ -13,11 +13,11 @@ links:
     url:          /
   - name:         Lab
     url:          http://capacious.ca
-pygments:         true
+  - name:		  Reading
+    url:		  /reading
+highlighter:         true
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
-gems:
-  - jekyll-redirect-from
