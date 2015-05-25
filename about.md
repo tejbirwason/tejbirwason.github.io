@@ -7,11 +7,11 @@ title: Me
 
 <br>
 
-Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**, call me Tj. I'm a Junior Software Engineering student at UBC graduating in 2016. I live in the beautiful city of Vancouver, Canada.
+Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**, call me Tj. I'm a Senior Software Engineering student at UBC graduating in 2016. I live in the beautiful city of Vancouver, Canada.
 
 I'm a software engineer and product designer. I love to read and write juicy code but code is just a means to an end. I build products that solve real pain points and I love operating in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Currently brewing a couple more [ideas]({{ site.url }}/4s4m). As a hobby, I love sharing strategies on coherent branding in a noisy social world. 
 
-I have worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15), [Alcatel Lucent](http://www.alcatel-lucent.com) (Summer '14) and [Broadcom](http://www.broadcom.com) (Summer'13, Fall'13). Currently exploring opportunities for an internship in Summer '15.
+I have worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15), [Alcatel Lucent](http://www.alcatel-lucent.com) (Summer '14) and [Broadcom](http://www.broadcom.com) (Summer'13, Fall'13).
 
 I *claim* to be a good [golfer](http://ubcgolf.club) and [biker](http://www.strava.com/athletes/tejbirwason).
 
