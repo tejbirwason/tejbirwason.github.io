@@ -13,7 +13,7 @@ I'm a software engineer and product designer. I love to read and write juicy cod
 
 I have worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15), [Alcatel Lucent](http://www.alcatel-lucent.com) (Summer '14) and [Broadcom](http://www.broadcom.com) (Summer'13, Fall'13).
 
-I *claim* to be a good [golfer](http://ubcgolf.club) and [biker](http://www.strava.com/athletes/tejbirwason). I aspire to become a professional golfer before 2020.
+I *claim* to be a good [golfer](http://ubcgolf.club) and [biker](http://www.strava.com/athletes/tejbirwason). I aspire to become a professional golfer before turning 25.
 
 This [blog]({{ site.url }}) is populated with some of my fleeting thoughts. [This]({{ site.url }}/hello-world) might be a good place to start.
 
