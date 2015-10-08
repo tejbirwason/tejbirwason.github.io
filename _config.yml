@@ -1,5 +1,5 @@
 title:            Tejbir Wason
-description:      Hi! I'm Tejbir Wason. I'm a Junior Software Engineering Student at UBC and this is my blog.
+description:      Hi! I'm Tejbir Wason. I'm a Senior Software Engineering Student at UBC and this is my blog.
 url:              http://www.tejbirwason.com
 signoff:          TJ
 disqus_shortname: tejbirwason
@@ -7,15 +7,17 @@ facebook_appid:   623290107757407
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         Me
+  - name:         me
     url:          /about
-  - name:         Blog
+  - name:         blog
     url:          /
-  - name:         Lab
+  - name:         lab
     url:          http://capacious.ca
-  - name:		  Reading
-    url:		  /reading
-highlighter:         true
+  - name:         bookshelf
+    url:          https://www.goodreads.com/review/list/13789990-tejbir-wason?shelf=read
+  - name:         resume
+    url:          /resume
+highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
