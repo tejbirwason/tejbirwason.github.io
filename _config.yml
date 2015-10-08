@@ -15,8 +15,6 @@ links:
     url:          http://capacious.ca
   - name:         bookshelf
     url:          https://www.goodreads.com/review/list/13789990-tejbir-wason?shelf=read
-  - name:         resume
-    url:          /resume
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
