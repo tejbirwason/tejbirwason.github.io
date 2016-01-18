@@ -10,7 +10,7 @@ links:
   - name:         me
     url:          /about
   - name:         resume
-    url:          /resume
+    url:          /resume/index.html
   - name:         blog
     url:          /
   - name:         lab
