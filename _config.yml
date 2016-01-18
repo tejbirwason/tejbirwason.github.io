@@ -9,8 +9,8 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         me
     url:          /about
-  - name:         resume2
-    url:          /resume/index.html
+  - name:         cv
+    url:          /cvSite
   - name:         blog
     url:          /
   - name:         lab
