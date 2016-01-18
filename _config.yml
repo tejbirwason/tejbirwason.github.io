@@ -9,14 +9,14 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         me
     url:          /about
-  - name:         cv
-    url:          /cv
   - name:         blog
     url:          /
   - name:         lab
     url:          http://capacious.ca
   - name:         bookshelf
     url:          https://www.goodreads.com/review/list/13789990-tejbir-wason?shelf=read
+  - name:         cv
+    url:          /cv
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
