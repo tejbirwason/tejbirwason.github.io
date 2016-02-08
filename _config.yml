@@ -17,7 +17,7 @@ links:
     url:          https://www.goodreads.com/review/list/13789990-tejbir-wason?shelf=read
   - name:         cv
     url:          /cv
-highlighter:      pygments
+highlighter:      rogue
 permalink:        pretty
 markdown:         kramdown
 redcarpet:
