@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello World!
-date: 2014-03-27 23:21:31
 disqus: y
 share: y
 permalink: /hello-world.html

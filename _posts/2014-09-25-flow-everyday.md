@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flow Everyday
-date: 2014-09-25 12:21:31
 disqus: y
 share: y
 permalink: /flow-everyday.html

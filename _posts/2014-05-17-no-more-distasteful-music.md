@@ -1,7 +1,6 @@
 ---
 layout: post
 title: No more distasteful music
-date: 2014-04-17 20:43:31
 disqus: y
 share: y
 permalink: /no-more-distasteful-music.html

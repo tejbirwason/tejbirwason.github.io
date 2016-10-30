@@ -7,12 +7,12 @@ title: Me
 
 <br>
 
-Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**, call me Tj. I'm a Senior Software Engineering student at UBC graduating in 2016. I live in the beautiful city of Vancouver, Canada.
+Hi! I'm **[Tejbir Wason](http://about.me/tejbirwason)**, call me Tj.
 
-I'm a software engineer and product designer. I love to read and write juicy code. But code is just a means to an end. I build stuff that helps solve real pain points. I love operating in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Currently brewing a couple more [ideas]({{ site.url }}/4s4m). 
+I am a software engineer and product designer. I love to read and write juicy code. But code is just a means to an end. I build stuff that helps solve real pain points. I love operating in a competetive startup environment. I founded [MyJam](http://myjam.co), winner of Startup Weekend Ottawa. Currently brewing a couple more [ideas]({{ site.url }}/4s4m). 
 I *claim* to be a good [golfer](http://www.tejbirwason.com/ubcgc/) and [biker](http://www.strava.com/athletes/tejbirwason).
 
-I have worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15), [Alcatel Lucent](http://www.alcatel-lucent.com) (Summer '14) and [Broadcom](http://www.broadcom.com) (Summer'13, Fall'13).
+I currently work at SAP helping build the next generation [analytics platform](http://discover.sap.com/cloudforanalytics/en-us/index.html?CRM-XM16-GAM-IT_AR). Previously, I worked as a software engineer at [Amazon](http://www.amazon.com/) (Winter '15), [Alcatel Lucent](http://www.alcatel-lucent.com) (Summer '14) and [Broadcom](http://www.broadcom.com) (Summer'13, Fall'13).
 
 This [blog]({{ site.url }}) is populated with some of my fleeting thoughts. [This]({{ site.url }}/hello-world) might be a good place to start reading.
 

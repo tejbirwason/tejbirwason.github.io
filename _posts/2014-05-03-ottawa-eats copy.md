@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ottawa Eats
-date: 2014-05-03 23:21:31
 disqus: y
 share: y
 permalink: /ottawa-eats.html

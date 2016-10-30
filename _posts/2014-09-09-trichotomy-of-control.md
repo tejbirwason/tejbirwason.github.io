@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Trichotomy of Control
-date: 2014-09-09 12:21:31
 disqus: n
 share: y
 permalink: /trichotomy-of-control.html

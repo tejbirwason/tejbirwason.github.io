@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Summer '14 - Prelude
-date: 2014-04-23 01:21:31
 disqus: y
 share: y
 permalink: /summer-14-prelude.html

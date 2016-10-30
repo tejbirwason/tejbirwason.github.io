@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I'm Launching 4 Startups in 4 Months 
-date: 2014-08-13 12:21:31
 disqus: y
 share: y
 permalink: /4s4m.html
