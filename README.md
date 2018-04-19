@@ -1,4 +1,4 @@
-Blog!
+Personal Website
 ========
 
-Visit [here](https://github.com/muan/scribble/fork)!
+Visit [here](https://www.tejbirwason.com)!
