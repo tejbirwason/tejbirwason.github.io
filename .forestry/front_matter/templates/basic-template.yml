@@ -17,3 +17,5 @@ fields:
 - type: list
   name: keywords
   label: keywords
+pages:
+- content/posts/welcome-to-the-blog.md
