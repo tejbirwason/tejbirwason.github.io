@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RPA on Tejbir (Tj) Wason</title>
-    <link>https://tejbirwason.com/tags/rpa/</link>
+    <link>https://www.tejbirwason.com/tags/rpa/</link>
     <description>Recent content in RPA on Tejbir (Tj) Wason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 09:00:00 +0000</lastBuildDate><atom:link href="https://tejbirwason.com/tags/rpa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Nov 2019 09:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/tags/rpa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>uipath ノート（三）- uipath orchestrator</title>
-      <link>https://tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</link>
+      <link>https://www.tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</link>
       <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</guid>
+      <guid>https://www.tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</guid>
       <description>利用手順 Official doc: https://docs.uipath.com/robot/docs/from-orchestrator-and-the-orchestrator-settings-window
 マシンを追加 マシン側でマシン名とユーザ名を確認
 C:\Users\user&amp;gt;hostname DESKTOP-ABCDE5F C:\Users\user&amp;gt;whoami desktop-abcde5f\user C:\Users\user&amp;gt; 追加完了後、マシンキーを取得する。
@@ -26,10 +26,10 @@ https://platform.uipath.com/&amp;lt;account name&amp;gt;/&amp;lt;service name&am
     
     <item>
       <title>uipath ノート（二）- Best Practice</title>
-      <link>https://tejbirwason.com/posts/2019-11-18-uipath-best-practice/</link>
+      <link>https://www.tejbirwason.com/posts/2019-11-18-uipath-best-practice/</link>
       <pubDate>Mon, 18 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/posts/2019-11-18-uipath-best-practice/</guid>
+      <guid>https://www.tejbirwason.com/posts/2019-11-18-uipath-best-practice/</guid>
       <description>時間をかけて各ワークフローに適したレイアウトを選択しましょう。 メイン: フローチャートまたはステートマシン
 ビジネスロジック: フローチャート
 UI インタラクション: シーケンス

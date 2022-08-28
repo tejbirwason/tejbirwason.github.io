@@ -10,7 +10,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> Racket notes | Tejbir (Tj) Wason</title>
-  <link rel = 'canonical' href = 'https://tejbirwason.com/posts/2020-02-29-racket/'>
+  <link rel = 'canonical' href = 'https://www.tejbirwason.com/posts/2020-02-29-racket/'>
   <meta name="description" content="Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
@@ -18,7 +18,7 @@
   <meta property="og:title" content="Racket notes" />
 <meta property="og:description" content="Basic #lang racket (provide (all-defined-out)) ;this is a comment (define s &#34;hello&#34;) (define x 3) (define y (&#43; x 2)) (define cube1 (lambda (x) (* x (* x x)))) (define cube2 (lambda (x) (* x x x))) (define (cube3 x) (* x x x)) (define (pow1 x y) (if (=y 0) 1 (* x (pow1 x (- y 1))))) ; currying (define pow2 (lambda (x) (lambda (y) (pow1 x y)))) List Empty list: null () doesn&quot;t work for null but &#39;() does build a list: (list e1 ." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://tejbirwason.com/posts/2020-02-29-racket/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://www.tejbirwason.com/posts/2020-02-29-racket/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2020-02-29T09:00:00+00:00" />
 <meta property="article:modified_time" content="2020-02-29T09:00:00+00:00" />
 
@@ -30,7 +30,7 @@
   
   
   
-  <link rel="stylesheet" href="https://tejbirwason.com/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
+  <link rel="stylesheet" href="https://www.tejbirwason.com/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
 
   
   
@@ -42,7 +42,7 @@
   
 
   
-<link rel="icon" type="image/png" href="https://tejbirwason.com/images/favicon.ico" />
+<link rel="icon" type="image/png" href="https://www.tejbirwason.com/images/favicon.ico" />
 
   
   
@@ -72,14 +72,14 @@
       <ul>
         
         <li>
-          <a class="icon" href=" https://tejbirwason.com/posts/2019-12-30-standardml-notes/" aria-label="Previous">
+          <a class="icon" href=" https://www.tejbirwason.com/posts/2019-12-30-standardml-notes/" aria-label="Previous">
             <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
           </a>
         </li>
         
         
         <li>
-          <a class="icon" href="https://tejbirwason.com/posts/2020-04-29-subtyping/" aria-label="Next">
+          <a class="icon" href="https://www.tejbirwason.com/posts/2020-04-29-subtyping/" aria-label="Next">
             <i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i>
           </a>
         </li>
@@ -110,47 +110,47 @@
   
   
   <li>
-    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Facebook">
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Facebook">
       <i class="fab fa-facebook " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&text=Racket%20notes" aria-label="Twitter">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&text=Racket%20notes" aria-label="Twitter">
       <i class="fab fa-twitter " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Linkedin">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Linkedin">
       <i class="fab fa-linkedin " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&is_video=false&description=Racket%20notes" aria-label="Pinterest">
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&is_video=false&description=Racket%20notes" aria-label="Pinterest">
       <i class="fab fa-pinterest " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=Racket%20notes&body=Check out this article: https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Email">
+    <a class="icon" href="mailto:?subject=Racket%20notes&body=Check out this article: https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Email">
       <i class="fas fa-envelope " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Pocket">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Pocket">
       <i class="fab fa-get-pocket " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="reddit">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="reddit">
       <i class="fab fa-reddit " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&name=Racket%20notes&description=Basic%20%23lang%20racket%20%28provide%20%28all-defined-out%29%29%20%3bthis%20is%20a%20comment%20%28define%20s%20%26%2334%3bhello%26%2334%3b%29%20%28define%20x%203%29%20%28define%20y%20%28%2b%20x%202%29%29%20%28define%20cube1%20%28lambda%20%28x%29%20%28%2a%20x%20%28%2a%20x%20x%29%29%29%29%20%28define%20cube2%20%28lambda%20%28x%29%20%28%2a%20x%20x%20x%29%29%29%20%28define%20%28cube3%20x%29%20%28%2a%20x%20x%20x%29%29%20%28define%20%28pow1%20x%20y%29%20%28if%20%28%3dy%200%29%201%20%28%2a%20x%20%28pow1%20x%20%28-%20y%201%29%29%29%29%29%20%3b%20currying%20%28define%20pow2%20%28lambda%20%28x%29%20%28lambda%20%28y%29%20%28pow1%20x%20y%29%29%29%29%20List%20Empty%20list%3a%20null%20%28%29%20doesn%26quot%3bt%20work%20for%20null%20but%20%27%28%29%20does%20build%20a%20list%3a%20%28list%20e1%20." aria-label="Tumblr">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&name=Racket%20notes&description=Basic%20%23lang%20racket%20%28provide%20%28all-defined-out%29%29%20%3bthis%20is%20a%20comment%20%28define%20s%20%26%2334%3bhello%26%2334%3b%29%20%28define%20x%203%29%20%28define%20y%20%28%2b%20x%202%29%29%20%28define%20cube1%20%28lambda%20%28x%29%20%28%2a%20x%20%28%2a%20x%20x%29%29%29%29%20%28define%20cube2%20%28lambda%20%28x%29%20%28%2a%20x%20x%20x%29%29%29%20%28define%20%28cube3%20x%29%20%28%2a%20x%20x%20x%29%29%20%28define%20%28pow1%20x%20y%29%20%28if%20%28%3dy%200%29%201%20%28%2a%20x%20%28pow1%20x%20%28-%20y%201%29%29%29%29%29%20%3b%20currying%20%28define%20pow2%20%28lambda%20%28x%29%20%28lambda%20%28y%29%20%28pow1%20x%20y%29%29%29%29%20List%20Empty%20list%3a%20null%20%28%29%20doesn%26quot%3bt%20work%20for%20null%20but%20%27%28%29%20does%20build%20a%20list%3a%20%28list%20e1%20." aria-label="Tumblr">
       <i class="fab fa-tumblr " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&t=Racket%20notes" aria-label="Hacker News">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&t=Racket%20notes" aria-label="Hacker News">
       <i class="fab fa-hacker-news " aria-hidden="true"></i>
     </a>
   </li>
@@ -471,47 +471,47 @@ So if we define a function like:</p>
   
   
   <li>
-    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Facebook">
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Facebook">
       <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&text=Racket%20notes" aria-label="Twitter">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&text=Racket%20notes" aria-label="Twitter">
       <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Linkedin">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Linkedin">
       <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&is_video=false&description=Racket%20notes" aria-label="Pinterest">
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&is_video=false&description=Racket%20notes" aria-label="Pinterest">
       <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=Racket%20notes&body=Check out this article: https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Email">
+    <a class="icon" href="mailto:?subject=Racket%20notes&body=Check out this article: https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f" aria-label="Email">
       <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Pocket">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="Pocket">
       <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="reddit">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&title=Racket%20notes" aria-label="reddit">
       <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&name=Racket%20notes&description=Basic%20%23lang%20racket%20%28provide%20%28all-defined-out%29%29%20%3bthis%20is%20a%20comment%20%28define%20s%20%26%2334%3bhello%26%2334%3b%29%20%28define%20x%203%29%20%28define%20y%20%28%2b%20x%202%29%29%20%28define%20cube1%20%28lambda%20%28x%29%20%28%2a%20x%20%28%2a%20x%20x%29%29%29%29%20%28define%20cube2%20%28lambda%20%28x%29%20%28%2a%20x%20x%20x%29%29%29%20%28define%20%28cube3%20x%29%20%28%2a%20x%20x%20x%29%29%20%28define%20%28pow1%20x%20y%29%20%28if%20%28%3dy%200%29%201%20%28%2a%20x%20%28pow1%20x%20%28-%20y%201%29%29%29%29%29%20%3b%20currying%20%28define%20pow2%20%28lambda%20%28x%29%20%28lambda%20%28y%29%20%28pow1%20x%20y%29%29%29%29%20List%20Empty%20list%3a%20null%20%28%29%20doesn%26quot%3bt%20work%20for%20null%20but%20%27%28%29%20does%20build%20a%20list%3a%20%28list%20e1%20." aria-label="Tumblr">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&name=Racket%20notes&description=Basic%20%23lang%20racket%20%28provide%20%28all-defined-out%29%29%20%3bthis%20is%20a%20comment%20%28define%20s%20%26%2334%3bhello%26%2334%3b%29%20%28define%20x%203%29%20%28define%20y%20%28%2b%20x%202%29%29%20%28define%20cube1%20%28lambda%20%28x%29%20%28%2a%20x%20%28%2a%20x%20x%29%29%29%29%20%28define%20cube2%20%28lambda%20%28x%29%20%28%2a%20x%20x%20x%29%29%29%20%28define%20%28cube3%20x%29%20%28%2a%20x%20x%20x%29%29%20%28define%20%28pow1%20x%20y%29%20%28if%20%28%3dy%200%29%201%20%28%2a%20x%20%28pow1%20x%20%28-%20y%201%29%29%29%29%29%20%3b%20currying%20%28define%20pow2%20%28lambda%20%28x%29%20%28lambda%20%28y%29%20%28pow1%20x%20y%29%29%29%29%20List%20Empty%20list%3a%20null%20%28%29%20doesn%26quot%3bt%20work%20for%20null%20but%20%27%28%29%20does%20build%20a%20list%3a%20%28list%20e1%20." aria-label="Tumblr">
       <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2ftejbirwason.com%2fposts%2f2020-02-29-racket%2f&t=Racket%20notes" aria-label="Hacker News">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2020-02-29-racket%2f&t=Racket%20notes" aria-label="Hacker News">
       <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
     </a>
   </li>

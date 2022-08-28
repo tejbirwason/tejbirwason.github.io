@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tejbir (Tj) Wason</title>
-    <link>https://tejbirwason.com/categories/</link>
+    <link>https://www.tejbirwason.com/categories/</link>
     <description>Recent content in Categories on Tejbir (Tj) Wason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://tejbirwason.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tech</title>
-      <link>https://tejbirwason.com/categories/tech/</link>
+      <link>https://www.tejbirwason.com/categories/tech/</link>
       <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/categories/tech/</guid>
+      <guid>https://www.tejbirwason.com/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notes</title>
-      <link>https://tejbirwason.com/categories/notes/</link>
+      <link>https://www.tejbirwason.com/categories/notes/</link>
       <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/categories/notes/</guid>
+      <guid>https://www.tejbirwason.com/categories/notes/</guid>
       <description></description>
     </item>
     

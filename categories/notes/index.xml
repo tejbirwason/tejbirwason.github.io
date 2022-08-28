@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>notes on Tejbir (Tj) Wason</title>
-    <link>https://tejbirwason.com/categories/notes/</link>
+    <link>https://www.tejbirwason.com/categories/notes/</link>
     <description>Recent content in notes on Tejbir (Tj) Wason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate><atom:link href="https://tejbirwason.com/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Changes to String in java (from 1.7.0_06)</title>
-      <link>https://tejbirwason.com/posts/2020-06-06-changes-in-java-string/</link>
+      <link>https://www.tejbirwason.com/posts/2020-06-06-changes-in-java-string/</link>
       <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/posts/2020-06-06-changes-in-java-string/</guid>
+      <guid>https://www.tejbirwason.com/posts/2020-06-06-changes-in-java-string/</guid>
       <description>Before 1.7.0_06, String has 4 non static field:
 char[] value int[] offset int count int hash Subing.substring create a String by sharing the original String&amp;rsquo;s internal char[] value and setting offset. This saves memory and makes String.substring run in a constant time($O(1)$). Meanwhile, this feature may cause memory leak1.
 http://hg.openjdk.java.net/jdk6/jdk6/jdk/file/8deef18bb749/src/share/classes/java/lang/String.java
@@ -21,29 +21,29 @@ public final class String implements java.io.Serializable, Comparable&amp;lt;Str
     
     <item>
       <title>Racket notes</title>
-      <link>https://tejbirwason.com/posts/2020-02-29-racket/</link>
+      <link>https://www.tejbirwason.com/posts/2020-02-29-racket/</link>
       <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/posts/2020-02-29-racket/</guid>
+      <guid>https://www.tejbirwason.com/posts/2020-02-29-racket/</guid>
       <description>Basic #lang racket (provide (all-defined-out)) ;this is a comment (define s &amp;#34;hello&amp;#34;) (define x 3) (define y (+ x 2)) (define cube1 (lambda (x) (* x (* x x)))) (define cube2 (lambda (x) (* x x x))) (define (cube3 x) (* x x x)) (define (pow1 x y) (if (=y 0) 1 (* x (pow1 x (- y 1))))) ; currying (define pow2 (lambda (x) (lambda (y) (pow1 x y)))) List Empty list: null () doesn&amp;quot;t work for null but &#39;() does build a list: (list e1 .</description>
     </item>
     
     <item>
       <title>Standard ML notes</title>
-      <link>https://tejbirwason.com/posts/2019-12-30-standardml-notes/</link>
+      <link>https://www.tejbirwason.com/posts/2019-12-30-standardml-notes/</link>
       <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/posts/2019-12-30-standardml-notes/</guid>
+      <guid>https://www.tejbirwason.com/posts/2019-12-30-standardml-notes/</guid>
       <description>Basics Comments (* SML comment *) Variable bindings and Expressions val x = 34; (* static environment: x : int *) (* dynamic environment: x --&amp;gt; 34 *) val y = x + 1; (* Use tilde character instead of minus to reprsent negation *) val z = ~1; (* Integer Division *) val w = y div x Strings:
 (* `\n`のようなエスケープシーケンスが利用できる *) val x = &amp;#34;hello\n&amp;#34;; (* 文字列の連結には&amp;#39;^&amp;#39;を使う *) val y = &amp;#34;hello &amp;#34; ^ &amp;#34;world&amp;#34;; An ML program is a sequence of bindings.</description>
     </item>
     
     <item>
       <title>uipath ノート（三）- uipath orchestrator</title>
-      <link>https://tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</link>
+      <link>https://www.tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</link>
       <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</guid>
+      <guid>https://www.tejbirwason.com/posts/2019-11-23-uipath-orchestrator/</guid>
       <description>利用手順 Official doc: https://docs.uipath.com/robot/docs/from-orchestrator-and-the-orchestrator-settings-window
 マシンを追加 マシン側でマシン名とユーザ名を確認
 C:\Users\user&amp;gt;hostname DESKTOP-ABCDE5F C:\Users\user&amp;gt;whoami desktop-abcde5f\user C:\Users\user&amp;gt; 追加完了後、マシンキーを取得する。
@@ -57,10 +57,10 @@ https://platform.uipath.com/&amp;lt;account name&amp;gt;/&amp;lt;service name&am
     
     <item>
       <title>uipath ノート（二）- Best Practice</title>
-      <link>https://tejbirwason.com/posts/2019-11-18-uipath-best-practice/</link>
+      <link>https://www.tejbirwason.com/posts/2019-11-18-uipath-best-practice/</link>
       <pubDate>Mon, 18 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://tejbirwason.com/posts/2019-11-18-uipath-best-practice/</guid>
+      <guid>https://www.tejbirwason.com/posts/2019-11-18-uipath-best-practice/</guid>
       <description>時間をかけて各ワークフローに適したレイアウトを選択しましょう。 メイン: フローチャートまたはステートマシン
 ビジネスロジック: フローチャート
 UI インタラクション: シーケンス
