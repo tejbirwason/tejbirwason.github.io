@@ -1,0 +1,21 @@
+---
+label: Basic Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: category
+  label: category
+- type: list
+  name: keywords
+  label: keywords
+pages:
+- content/posts/welcome-to-the-blog.md
