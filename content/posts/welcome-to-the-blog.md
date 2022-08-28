@@ -6,4 +6,4 @@ tags = []
 title = "Welcome to the blog!"
 
 +++
-This blog is setup using Hugo with a continuous integration with Github pages. I use CMS to publish the blog posts.
+This blog is setup using Hugo with a continuous integration with Github pages. I'm also using Forestry CMS to publish the blog posts.
