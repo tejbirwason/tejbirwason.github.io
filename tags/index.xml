@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Tejbir (Tj) Wason</title><link>https://tejbirwason.github.io/tags/</link><description>Recent content in Tags on Tejbir (Tj) Wason</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://tejbirwason.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>test</title><link>https://tejbirwason.github.io/tags/test/</link><pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate><guid>https://tejbirwason.github.io/tags/test/</guid><description/></item><item><title>Algorithms</title><link>https://tejbirwason.github.io/tags/algorithms/</link><pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate><guid>https://tejbirwason.github.io/tags/algorithms/</guid><description/></item><item><title>programming language</title><link>https://tejbirwason.github.io/tags/programming-language/</link><pubDate>Wed, 29 Apr 2020 09:00:00 +0000</pubDate><guid>https://tejbirwason.github.io/tags/programming-language/</guid><description/></item><item><title>racket</title><link>https://tejbirwason.github.io/tags/racket/</link><pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate><guid>https://tejbirwason.github.io/tags/racket/</guid><description/></item><item><title>SML</title><link>https://tejbirwason.github.io/tags/sml/</link><pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate><guid>https://tejbirwason.github.io/tags/sml/</guid><description/></item><item><title>RPA</title><link>https://tejbirwason.github.io/tags/rpa/</link><pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate><guid>https://tejbirwason.github.io/tags/rpa/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tejbir (Tj) Wason</title>
+    <link>https://tejbirwason.github.io/tags/</link>
+    <description>Recent content in Tags on Tejbir (Tj) Wason</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://tejbirwason.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://tejbirwason.github.io/tags/test/</link>
+      <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://tejbirwason.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://tejbirwason.github.io/tags/algorithms/</link>
+      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://tejbirwason.github.io/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming language</title>
+      <link>https://tejbirwason.github.io/tags/programming-language/</link>
+      <pubDate>Wed, 29 Apr 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://tejbirwason.github.io/tags/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racket</title>
+      <link>https://tejbirwason.github.io/tags/racket/</link>
+      <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://tejbirwason.github.io/tags/racket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SML</title>
+      <link>https://tejbirwason.github.io/tags/sml/</link>
+      <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://tejbirwason.github.io/tags/sml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA</title>
+      <link>https://tejbirwason.github.io/tags/rpa/</link>
+      <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://tejbirwason.github.io/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
