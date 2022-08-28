@@ -31,3 +31,4 @@ jobs:
           github_token: ${{ secrets.TOKEN }}
           publish_dir: ./public
           external_repository: tejbirwason/tejbirwason.github.io
+          publish_branch: master
