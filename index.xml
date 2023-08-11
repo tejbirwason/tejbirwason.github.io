@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>DOMContentLoaded vs window.onload What&#39;s the Difference</title>
+      <link>https://www.tejbirwason.com/posts/2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tejbirwason.com/posts/2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference/</guid>
+      <description>When building web pages, it&amp;rsquo;s important to know when to execute JavaScript. Two crucial events, DOMContentLoaded and window.onload, can help you determine this. Let&amp;rsquo;s explore the differences.
+Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM is ready, but resources like images might not be loaded yet. window.onload: Fires when the entire page, including all resources (images, stylesheets, etc.), is fully loaded. Use Cases DOMContentLoaded: Ideal for running JavaScript as soon as the DOM is ready, without waiting for all resources.</description>
+    </item>
+    
+    <item>
       <title>Incentive Structures in Venture Funds: LPs vs. GPs</title>
       <link>https://www.tejbirwason.com/posts/2023-08-11_incentive-structures-in-venture-funds-lps-vs.-gps/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
