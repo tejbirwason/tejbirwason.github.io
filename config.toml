@@ -4,7 +4,7 @@ title = 'Tejbir (Tj) Wason'
 theme = "cactus"
 [params]
 description = "Brief musings and general learnings"
-mainSectionTitle = "Some blurbs"
+mainSectionTitle = "TIL's"
 showAllPostsOnHomePage = true
 [[params.social]]
 name = "github"
