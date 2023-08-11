@@ -6,14 +6,15 @@
     <description>Recent content on Tejbir (Tj) Wason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 04:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to the blog!</title>
-      <link>https://www.tejbirwason.com/posts/welcome-to-the-blog/</link>
-      <pubDate>Sun, 28 Aug 2022 04:00:00 +0000</pubDate>
+      <title>Prettier and Minified Code</title>
+      <link>https://www.tejbirwason.com/posts/2023-08-11_prettier-and-minified-code/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.tejbirwason.com/posts/welcome-to-the-blog/</guid>
-      <description>This blog is setup using Hugo with a continuous integration with Github pages. I&amp;rsquo;m also using Forestry CMS to publish the blog posts.</description>
+      <guid>https://www.tejbirwason.com/posts/2023-08-11_prettier-and-minified-code/</guid>
+      <description>Today, I learned that Prettier, the popular code formatter, can handle minified JavaScript code and try to format it into a readable form. However, there are some things to be aware of:
+Performance Concerns: Prettifying large minified files (e.g., libraries) can be time-consuming. Accuracy: Minified code might not always format cleanly due to certain minification tricks. Original Structure: Prettified minified code won&amp;rsquo;t necessarily match the original code structure. Minification often renames variables and changes the code&amp;rsquo;s structure.</description>
     </item>
     
     <item>
@@ -23,16 +24,6 @@
       
       <guid>https://www.tejbirwason.com/about/</guid>
       <description>Hi! I&amp;rsquo;m Tj. This site is under development!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.tejbirwason.com/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tejbirwason.com/posts/test/</guid>
-      <description>Testing Date: Fri Aug 11 2023
-Just a test</description>
     </item>
     
   </channel>
