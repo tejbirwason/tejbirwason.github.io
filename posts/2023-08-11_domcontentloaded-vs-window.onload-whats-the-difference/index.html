@@ -9,13 +9,13 @@
   <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title> DOMContentLoaded vs window.onload What&#39;s the Difference | Tejbir (Tj) Wason</title>
+  <title> DOMContentLoaded vs window.onload | Tejbir (Tj) Wason</title>
   <link rel = 'canonical' href = 'https://www.tejbirwason.com/posts/2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference/'>
   <meta name="description" content="Brief musings and general learnings">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
-  <meta property="og:title" content="DOMContentLoaded vs window.onload What&#39;s the Difference" />
+  <meta property="og:title" content="DOMContentLoaded vs window.onload" />
 <meta property="og:description" content="When building web pages, it&rsquo;s important to know when to execute JavaScript. Two crucial events, DOMContentLoaded and window.onload, can help you determine this. Let&rsquo;s explore the differences.
 Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM is ready, but resources like images might not be loaded yet. window.onload: Fires when the entire page, including all resources (images, stylesheets, etc.), is fully loaded. Use Cases DOMContentLoaded: Ideal for running JavaScript as soon as the DOM is ready, without waiting for all resources." />
 <meta property="og:type" content="article" />
@@ -24,7 +24,7 @@ Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM i
 <meta property="article:modified_time" content="2023-08-11T00:00:00+00:00" />
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="DOMContentLoaded vs window.onload What&#39;s the Difference"/>
+<meta name="twitter:title" content="DOMContentLoaded vs window.onload"/>
 <meta name="twitter:description" content="When building web pages, it&rsquo;s important to know when to execute JavaScript. Two crucial events, DOMContentLoaded and window.onload, can help you determine this. Let&rsquo;s explore the differences.
 Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM is ready, but resources like images might not be loaded yet. window.onload: Fires when the entire page, including all resources (images, stylesheets, etc.), is fully loaded. Use Cases DOMContentLoaded: Ideal for running JavaScript as soon as the DOM is ready, without waiting for all resources."/>
 
@@ -110,42 +110,42 @@ Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM i
     </a>
   </li>
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&text=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Twitter">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&text=DOMContentLoaded%20vs%20window.onload" aria-label="Twitter">
       <i class="fab fa-twitter " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Linkedin">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload" aria-label="Linkedin">
       <i class="fab fa-linkedin " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&is_video=false&description=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Pinterest">
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&is_video=false&description=DOMContentLoaded%20vs%20window.onload" aria-label="Pinterest">
       <i class="fab fa-pinterest " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference&body=Check out this article: https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f" aria-label="Email">
+    <a class="icon" href="mailto:?subject=DOMContentLoaded%20vs%20window.onload&body=Check out this article: https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f" aria-label="Email">
       <i class="fas fa-envelope " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Pocket">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload" aria-label="Pocket">
       <i class="fab fa-get-pocket " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="reddit">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload" aria-label="reddit">
       <i class="fab fa-reddit " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&name=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference&description=When%20building%20web%20pages%2c%20it%26rsquo%3bs%20important%20to%20know%20when%20to%20execute%20JavaScript.%20Two%20crucial%20events%2c%20DOMContentLoaded%20and%20window.onload%2c%20can%20help%20you%20determine%20this.%20Let%26rsquo%3bs%20explore%20the%20differences.%0aTiming%20DOMContentLoaded%3a%20Fires%20when%20the%20HTML%20document%20is%20fully%20parsed.%20The%20DOM%20is%20ready%2c%20but%20resources%20like%20images%20might%20not%20be%20loaded%20yet.%20window.onload%3a%20Fires%20when%20the%20entire%20page%2c%20including%20all%20resources%20%28images%2c%20stylesheets%2c%20etc.%29%2c%20is%20fully%20loaded.%20Use%20Cases%20DOMContentLoaded%3a%20Ideal%20for%20running%20JavaScript%20as%20soon%20as%20the%20DOM%20is%20ready%2c%20without%20waiting%20for%20all%20resources." aria-label="Tumblr">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&name=DOMContentLoaded%20vs%20window.onload&description=When%20building%20web%20pages%2c%20it%26rsquo%3bs%20important%20to%20know%20when%20to%20execute%20JavaScript.%20Two%20crucial%20events%2c%20DOMContentLoaded%20and%20window.onload%2c%20can%20help%20you%20determine%20this.%20Let%26rsquo%3bs%20explore%20the%20differences.%0aTiming%20DOMContentLoaded%3a%20Fires%20when%20the%20HTML%20document%20is%20fully%20parsed.%20The%20DOM%20is%20ready%2c%20but%20resources%20like%20images%20might%20not%20be%20loaded%20yet.%20window.onload%3a%20Fires%20when%20the%20entire%20page%2c%20including%20all%20resources%20%28images%2c%20stylesheets%2c%20etc.%29%2c%20is%20fully%20loaded.%20Use%20Cases%20DOMContentLoaded%3a%20Ideal%20for%20running%20JavaScript%20as%20soon%20as%20the%20DOM%20is%20ready%2c%20without%20waiting%20for%20all%20resources." aria-label="Tumblr">
       <i class="fab fa-tumblr " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&t=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Hacker News">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&t=DOMContentLoaded%20vs%20window.onload" aria-label="Hacker News">
       <i class="fab fa-hacker-news " aria-hidden="true"></i>
     </a>
   </li>
@@ -172,7 +172,7 @@ Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM i
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header>
       <h1 class="posttitle" itemprop="name headline">
-        DOMContentLoaded vs window.onload What&#39;s the Difference
+        DOMContentLoaded vs window.onload
       </h1>
       <div class="meta">
         
@@ -278,42 +278,42 @@ Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM i
     </a>
   </li>
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&text=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Twitter">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&text=DOMContentLoaded%20vs%20window.onload" aria-label="Twitter">
       <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Linkedin">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload" aria-label="Linkedin">
       <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&is_video=false&description=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Pinterest">
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&is_video=false&description=DOMContentLoaded%20vs%20window.onload" aria-label="Pinterest">
       <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference&body=Check out this article: https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f" aria-label="Email">
+    <a class="icon" href="mailto:?subject=DOMContentLoaded%20vs%20window.onload&body=Check out this article: https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f" aria-label="Email">
       <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Pocket">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload" aria-label="Pocket">
       <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="reddit">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&title=DOMContentLoaded%20vs%20window.onload" aria-label="reddit">
       <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&name=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference&description=When%20building%20web%20pages%2c%20it%26rsquo%3bs%20important%20to%20know%20when%20to%20execute%20JavaScript.%20Two%20crucial%20events%2c%20DOMContentLoaded%20and%20window.onload%2c%20can%20help%20you%20determine%20this.%20Let%26rsquo%3bs%20explore%20the%20differences.%0aTiming%20DOMContentLoaded%3a%20Fires%20when%20the%20HTML%20document%20is%20fully%20parsed.%20The%20DOM%20is%20ready%2c%20but%20resources%20like%20images%20might%20not%20be%20loaded%20yet.%20window.onload%3a%20Fires%20when%20the%20entire%20page%2c%20including%20all%20resources%20%28images%2c%20stylesheets%2c%20etc.%29%2c%20is%20fully%20loaded.%20Use%20Cases%20DOMContentLoaded%3a%20Ideal%20for%20running%20JavaScript%20as%20soon%20as%20the%20DOM%20is%20ready%2c%20without%20waiting%20for%20all%20resources." aria-label="Tumblr">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&name=DOMContentLoaded%20vs%20window.onload&description=When%20building%20web%20pages%2c%20it%26rsquo%3bs%20important%20to%20know%20when%20to%20execute%20JavaScript.%20Two%20crucial%20events%2c%20DOMContentLoaded%20and%20window.onload%2c%20can%20help%20you%20determine%20this.%20Let%26rsquo%3bs%20explore%20the%20differences.%0aTiming%20DOMContentLoaded%3a%20Fires%20when%20the%20HTML%20document%20is%20fully%20parsed.%20The%20DOM%20is%20ready%2c%20but%20resources%20like%20images%20might%20not%20be%20loaded%20yet.%20window.onload%3a%20Fires%20when%20the%20entire%20page%2c%20including%20all%20resources%20%28images%2c%20stylesheets%2c%20etc.%29%2c%20is%20fully%20loaded.%20Use%20Cases%20DOMContentLoaded%3a%20Ideal%20for%20running%20JavaScript%20as%20soon%20as%20the%20DOM%20is%20ready%2c%20without%20waiting%20for%20all%20resources." aria-label="Tumblr">
       <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&t=DOMContentLoaded%20vs%20window.onload%20What%27s%20the%20Difference" aria-label="Hacker News">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fwww.tejbirwason.com%2fposts%2f2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference%2f&t=DOMContentLoaded%20vs%20window.onload" aria-label="Hacker News">
       <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
     </a>
   </li>
