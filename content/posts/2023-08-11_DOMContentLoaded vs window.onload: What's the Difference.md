@@ -1,5 +1,5 @@
 ---
-title: '`DOMContentLoaded` vs `window.onload`: What's the Difference?'
+title: "DOMContentLoaded vs window.onload What's the Difference"
 date: 2023-08-11
 ---
 
@@ -18,17 +18,17 @@ When building web pages, it's important to know when to execute JavaScript. Two 
 ## Adding Event Listeners
 
 - **DOMContentLoaded**:
-    ```javascript
-    document.addEventListener("DOMContentLoaded", function() {
-       // Your code here
-    });
-    ```
+  ```javascript
+  document.addEventListener('DOMContentLoaded', function () {
+    // Your code here
+  });
+  ```
 - **window.onload**:
-    ```javascript
-    window.onload = function() {
-       // Your code here
-    };
-    ```
+  ```javascript
+  window.onload = function () {
+    // Your code here
+  };
+  ```
 
 ## Performance
 
@@ -40,4 +40,3 @@ Using `window.onload` might delay your JavaScript, especially with many large re
 - **window.onload**: Has extensive backward compatibility across browsers.
 
 **Conclusion**: Choose between `DOMContentLoaded` and `window.onload` based on when you need your JavaScript to run. If it's just the DOM, use `DOMContentLoaded`. If it's every resource, use `window.onload`.
-
