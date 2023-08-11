@@ -16,5 +16,15 @@
       <description>This blog is setup using Hugo with a continuous integration with Github pages. I&amp;rsquo;m also using Forestry CMS to publish the blog posts.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://www.tejbirwason.com/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tejbirwason.com/posts/test/</guid>
+      <description>Testing Date: Fri Aug 11 2023
+Just a test</description>
+    </item>
+    
   </channel>
 </rss>
