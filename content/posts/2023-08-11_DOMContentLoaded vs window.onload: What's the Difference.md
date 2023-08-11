@@ -1,5 +1,5 @@
 ---
-title: "DOMContentLoaded vs window.onload What's the Difference"
+title: 'DOMContentLoaded vs window.onload'
 date: 2023-08-11
 ---
 
