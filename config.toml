@@ -1,11 +1,15 @@
 baseURL = 'https://www.tejbirwason.com'
 languageCode = 'en-us'
-title = 'Tejbir (Tj) Wason'
+title = 'Tj'
 theme = "cactus"
+
 [params]
-description = "Brief musings and general learnings"
+logo = "/tj.png"
+colortheme = "dark"
+description = "Hi! I'm Tj. I'm a software engineer, and I like to write about things I've learned on here."
 mainSectionTitle = "TIL's"
 showAllPostsOnHomePage = true
+
 [[params.social]]
 name = "github"
 link = "https://github.com/tejbirwason"
@@ -28,8 +32,3 @@ weight = 1
 name = "All posts"
 url = "/posts"
 weight = 2
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
