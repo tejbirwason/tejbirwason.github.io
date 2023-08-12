@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tejbir (Tj) Wason</title>
+    <title>Tj</title>
     <link>https://www.tejbirwason.com/</link>
-    <description>Recent content on Tejbir (Tj) Wason</description>
+    <description>Recent content on Tj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/index.xml" rel="self" type="application/rss+xml" />
@@ -55,7 +55,7 @@ Performance Concerns: Prettifying large minified files (e.g., libraries) can be 
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
       
       <guid>https://www.tejbirwason.com/about/</guid>
-      <description>Hi! I&amp;rsquo;m Tj.</description>
+      <description>Hi! I&amp;rsquo;m Tj. I&amp;rsquo;m a software engineer, and I like to write about things I&amp;rsquo;ve learned on my blog.</description>
     </item>
     
   </channel>
