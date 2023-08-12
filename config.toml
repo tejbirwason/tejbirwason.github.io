@@ -4,7 +4,8 @@ title = 'Tj'
 theme = "cactus"
 
 [params]
-logo = "/tj.png"
+logo = "/logo.png"
+favicon = "/favicon.ico"
 colortheme = "dark"
 description = "Hi! I'm Tj. I'm a software engineer, and I like to write about things I've learned on here."
 mainSectionTitle = "TIL's"
