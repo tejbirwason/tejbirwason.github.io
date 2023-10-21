@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Tj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The NotPetya Attack</title>
+      <link>https://www.tejbirwason.com/posts/2023-10-21_the-notpetya-attack/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tejbirwason.com/posts/2023-10-21_the-notpetya-attack/</guid>
+      <description>Today, I learnt about some of the technical details of the infamous NotPetya attack from 2017. It&amp;rsquo;s fascinating to see how this malware combined various techniques for maximum disruption. Here&amp;rsquo;s a brief rundown:
+Initial Infection M.E.Doc Software: Attackers compromised this Ukrainian tax software&amp;rsquo;s update mechanism, making organizations unwittingly introduce malware when updating. Attack Techniques MBR Overwriting: Targeted the Master Boot Record (MBR) to prevent systems from booting up. EternalBlue &amp;amp; EternalRomance: NSA-linked exploits targeting the SMB protocol.</description>
+    </item>
+    
     <item>
       <title>Forward Deployed Engineers at Palantir</title>
       <link>https://www.tejbirwason.com/posts/2023-10-03_forward-deployed-engineers-at-palantir/</link>
