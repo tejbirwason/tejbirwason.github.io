@@ -6,143 +6,127 @@
     <description>Recent content in Posts on Tj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tejbirwason.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.tejbirwason.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NEDC and WLTP for Electric Vehicles</title>
+      <link>https://www.tejbirwason.com/posts/2023-11-07_nedc-and-wltp-for-electric-vehicles/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.tejbirwason.com/posts/2023-11-07_nedc-and-wltp-for-electric-vehicles/</guid>
+      <description>I&amp;rsquo;ve been shopping for an electric vehicle (EV), and encountered terms like NEDC and WLTP. These acronyms stand for testing procedures that estimate a vehicle&amp;rsquo;s range and efficiency. Here&amp;rsquo;s what they mean and why WLTP is the more reliable standard today.
+What was NEDC? The New European Driving Cycle (NEDC) was the older standard used until 2017. It included:
+Urban (ECE-15) and extra-urban cycles. Lower average speeds for testing. A short total test time of around 20 minutes.</description>
+    </item>
     <item>
       <title>The NotPetya Attack</title>
       <link>https://www.tejbirwason.com/posts/2023-10-21_the-notpetya-attack/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-10-21_the-notpetya-attack/</guid>
       <description>Today, I learnt about some of the technical details of the infamous NotPetya attack from 2017. It&amp;rsquo;s fascinating to see how this malware combined various techniques for maximum disruption. Here&amp;rsquo;s a brief rundown:
 Initial Infection M.E.Doc Software: Attackers compromised this Ukrainian tax software&amp;rsquo;s update mechanism, making organizations unwittingly introduce malware when updating. Attack Techniques MBR Overwriting: Targeted the Master Boot Record (MBR) to prevent systems from booting up. EternalBlue &amp;amp; EternalRomance: NSA-linked exploits targeting the SMB protocol.</description>
     </item>
-    
     <item>
       <title>Forward Deployed Engineers at Palantir</title>
       <link>https://www.tejbirwason.com/posts/2023-10-03_forward-deployed-engineers-at-palantir/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-10-03_forward-deployed-engineers-at-palantir/</guid>
       <description>Discovered an interesting new role at Palantir that seems to bridge software development and consulting:
 A Unique Role at Palantir Interdisciplinary Nature: FDEs sit at the crossroads of software engineering, consulting, and data analysis.
 Hands-on Client Engagement: Unlike traditional engineers, they don&amp;rsquo;t confine themselves to coding desks. They work in tandem with Palantir&amp;rsquo;s clients, often being directly embedded with them.
 Key Responsibilities Client Interaction: Direct engagement to understand their challenges and goals.</description>
     </item>
-    
     <item>
       <title>Isaac Newton and the South Sea Bubble</title>
       <link>https://www.tejbirwason.com/posts/2023-09-15_isaac-newton-and-the-south-sea-bubble/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-09-15_isaac-newton-and-the-south-sea-bubble/</guid>
       <description>While Newton is best known for his groundbreaking work in physics, particularly his laws of motion and universal gravitation, he also had a lesser-known involvement in one of the most notorious financial bubbles in history: the South Sea Bubble.
 The South Sea Bubble Established in the early 18th century, the South Sea Company was granted a monopoly on trade with the South Seas. As speculation around the company&amp;rsquo;s potential profits grew, so did its share price.</description>
     </item>
-    
     <item>
       <title>Different Types of Tidal Energy Technologies</title>
       <link>https://www.tejbirwason.com/posts/2023-08-26_different-types-of-tidal-energy-technologies/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-26_different-types-of-tidal-energy-technologies/</guid>
       <description>Tidal energy is harnessed from the natural rise and fall of ocean tides. Here are the main types of tidal energy technologies:
 Tidal Barrages: Dams built across estuaries with sluice gates and turbines. Water is allowed into the estuary as the tide rises and then released through turbines to generate electricity as the tide ebbs.
 Tidal Stream Generators: Devices that capture the kinetic energy of moving water as the tide ebbs and flows.</description>
     </item>
-    
     <item>
       <title>The Shikoku Pilgrimage in Japan</title>
       <link>https://www.tejbirwason.com/posts/2023-08-20_the-shikoku-pilgrimage-in-japan/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-20_the-shikoku-pilgrimage-in-japan/</guid>
       <description>Today I learned about the Shikoku Pilgrimage, a famous pilgrimage route that circles the island of Shikoku in Japan.
 Temples: The route covers 88 &amp;ldquo;official&amp;rdquo; temples. Founder: Associated with the Buddhist monk Kūkai, founder of the Shingon sect of Buddhism. Distance: It spans approximately 1,200 kilometers. Purpose: While many do it for spiritual reasons, others undertake the journey for personal or cultural exploration. Pilgrims: Known as henro, they often wear traditional white clothing and carry wooden walking sticks.</description>
     </item>
-    
     <item>
       <title>The Culinary Gem of Tuscany – Bistecca alla Fiorentina</title>
       <link>https://www.tejbirwason.com/posts/2023-08-17_the-culinary-gem-of-tuscany-bistecca-alla-fiorentina/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-17_the-culinary-gem-of-tuscany-bistecca-alla-fiorentina/</guid>
       <description>I was randomly reading about beef, and arrived at the heart of Tuscan gastronomy and discovered the Bistecca alla Fiorentina. This is no ordinary steak. Here&amp;rsquo;s what makes it unique:
 Origin: Hailing from Florence, Italy, its name translates to &amp;ldquo;Florentine-style steak&amp;rdquo;. The Meat: A T-bone or porterhouse cut, it can weigh a hefty 2 to 8 pounds! Breed: Derived from the Chianina cattle, one of the world&amp;rsquo;s oldest cattle breeds.</description>
     </item>
-    
     <item>
       <title>VVC and RVVC in Venture Capital</title>
       <link>https://www.tejbirwason.com/posts/2023-08-15_vvc-and-rvvc-in-venture-capital/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-15_vvc-and-rvvc-in-venture-capital/</guid>
       <description>Today, I delved into some of the emerging metrics in the Venture Capital world: VVC (Velocity of Value Creation) and RVVC (Relative Velocity of Value Creation).
 VVC (Velocity of Value Creation) VVC stands for Velocity of Value Creation. It represents the speed or rate at which a startup or investment is generating value. It&amp;rsquo;s a crucial metric to gauge how rapidly a company is increasing in value, be it through growth strategies, operational improvements, or other positive catalysts.</description>
     </item>
-    
     <item>
       <title>The Art of Knit Felted Bags</title>
       <link>https://www.tejbirwason.com/posts/2023-08-13_the-art-of-knit-felted-bags/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-13_the-art-of-knit-felted-bags/</guid>
       <description>Today I learned about the fascinating craft of creating knit felted bags. These unique accessories are crafted through a combination of knitting and felting, resulting in a dense, matted fabric that&amp;rsquo;s both beautiful and durable.
 Knitting First, an oversized bag is knitted using wool or a wool-blend yarn, as these materials felt the best.
 Felting Next, the bag is subjected to a felting process, using either a washing machine or manual hand felting.</description>
     </item>
-    
     <item>
       <title>DOMContentLoaded vs window.onload</title>
       <link>https://www.tejbirwason.com/posts/2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-11_domcontentloaded-vs-window.onload-whats-the-difference/</guid>
       <description>When building web pages, it&amp;rsquo;s important to know when to execute JavaScript. Two crucial events, DOMContentLoaded and window.onload, can help you determine this. Let&amp;rsquo;s explore the differences.
 Timing DOMContentLoaded: Fires when the HTML document is fully parsed. The DOM is ready, but resources like images might not be loaded yet. window.onload: Fires when the entire page, including all resources (images, stylesheets, etc.), is fully loaded. Use Cases DOMContentLoaded: Ideal for running JavaScript as soon as the DOM is ready, without waiting for all resources.</description>
     </item>
-    
     <item>
       <title>Incentive Structures in Venture Funds: LPs vs. GPs</title>
       <link>https://www.tejbirwason.com/posts/2023-08-11_incentive-structures-in-venture-funds-lps-vs.-gps/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-11_incentive-structures-in-venture-funds-lps-vs.-gps/</guid>
       <description>Venture funds are primarily powered by two key participants: Limited Partners (LPs) and General Partners (GPs). Each has distinct roles and incentives.
 Limited Partners (LPs) Role: Investors in the fund, providing capital for investments.
 Incentives:
 Capital Returns: Earn returns from portfolio exits and distributions. Preferred Return: Often, LPs have a &amp;ldquo;hurdle rate&amp;rdquo; ensuring they receive a minimum return before GPs take their profit share. General Partners (GPs) Role: Managers of the fund, making investment decisions and managing portfolio companies.</description>
     </item>
-    
     <item>
       <title>Kouign-Amann</title>
       <link>https://www.tejbirwason.com/posts/2023-08-11_kouign-amann/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-11_kouign-amann/</guid>
       <description>Today I learned about a pastry that&amp;rsquo;s giving croissants a run for their money: the kouign-amann (pronounced &amp;ldquo;queen a-mahn&amp;rdquo;). Hailing from Brittany, France, this buttery pastry dates back to the 1860s.
 Legend has it that a baker in Douarnenez, faced with leftover bread dough, decided to incorporate butter and sugar and then baked it. The outcome was an unexpectedly delightful treat which would later gain fame not just in Brittany, but globally.</description>
     </item>
-    
     <item>
       <title>Prettier and Minified Code</title>
       <link>https://www.tejbirwason.com/posts/2023-08-11_prettier-and-minified-code/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-11_prettier-and-minified-code/</guid>
       <description>Today, I learned that Prettier, the popular code formatter, can handle minified JavaScript code and try to format it into a readable form. However, there are some things to be aware of:
 Performance Concerns: Prettifying large minified files (e.g., libraries) can be time-consuming. Accuracy: Minified code might not always format cleanly due to certain minification tricks. Original Structure: Prettified minified code won&amp;rsquo;t necessarily match the original code structure. Minification often renames variables and changes the code&amp;rsquo;s structure.</description>
     </item>
-    
     <item>
       <title>The Queen&#39;s English vs. Informal English</title>
       <link>https://www.tejbirwason.com/posts/2023-08-11_the-queens-english-vs.-informal-english/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tejbirwason.com/posts/2023-08-11_the-queens-english-vs.-informal-english/</guid>
       <description>Learnt something interesting today, in the realm of British English, there exists a distinction between the so-called &amp;ldquo;Queen&amp;rsquo;s English&amp;rdquo; and more informal, everyday language. This post will provide a brief overview of these two styles of communication.
 Queen&amp;rsquo;s English The &amp;ldquo;Queen&amp;rsquo;s English,&amp;rdquo; or &amp;ldquo;Received Pronunciation,&amp;rdquo; is a form of English associated with the upper classes and traditional British culture. It&amp;rsquo;s characterized by:
 Proper and standard grammar Formal vocabulary Precise pronunciation Examples: &amp;ldquo;Would you be so kind as to pass the salt?</description>
     </item>
-    
   </channel>
 </rss>
